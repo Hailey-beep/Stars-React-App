@@ -1,2 +1,1 @@
-# -PRO-C137-Project-Boilerplate
-
+# Stars React Native App
